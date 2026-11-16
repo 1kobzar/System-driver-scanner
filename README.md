@@ -1,8 +1,6 @@
 # 🛡️ DriverScanner Pro — сканер системы и драйверов
 
-![Platform](https://shields.io)
-![Language](https://shields.io)
-![Version](https://shields.io)
+**`Платформа: Windows 10/11`** • **`Язык: Python 3`** • **`Версия: v1.0.0`**
 
 > [!NOTE]
 > **DriverScanner Pro** — это упрощенная и быстрая утилита для обнаружения установленных драйверов и программ на ПК без громоздких меню и лишней нагрузки на систему.

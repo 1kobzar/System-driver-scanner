@@ -11,7 +11,7 @@
 * ⚡ **Простота и скорость:** легкий интерфейс, запуск без долгой настройки.
 
 ## 🚀 Как установить и запустить
-1. Перейдите в раздел **[Releases](https://github.com)** справа на странице или **[скачайте установщик `DriverScanner_Setup.exe` напрямую](https://github.com/download/v1.0.0/DriverScanner_Setup.exe)**.
+1. Перейдите в раздел **[Releases](../../releases)** справа на странице или **[скачайте установщик `DriverScanner_Setup.exe` напрямую](../../releases/latest/download/DriverScanner_Setup.exe)**.
 2. Запустите скачанный файл и следуйте инструкциям мастера установки.
 
 > [!TIP]
